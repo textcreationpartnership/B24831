@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lord Deputy and Council. Tyrconnell. Whereas several persons disaffected to his Majesties most serene and auspicious government, have of late in a riotous and warlike manner assembled together in several parts of this his kingdom, ...</title>
+            <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24831</idno><idno type="EEBO-CITATION">99886347</idno>
+  <idno type="VID">186606</idno>
+  <idno type="EEBO-PROQUEST">2264216019</idno>
+  
+            <idno type="STC">Wing I878</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[34]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[47]</idno>
+            <idno type="STC">ESTC R225874</idno>
+            <idno type="PROQUEST">ocm99886347</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886347e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186606)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[34]; C23:1[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lord Deputy and Council. Tyrconnell. Whereas several persons disaffected to his Majesties most serene and auspicious government, have of late in a riotous and warlike manner assembled together in several parts of this his kingdom, ...</title>
+                  <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+                  <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook and Samuel Helsham assigns of Benjamin Tooke printer to the Kings most excellent Majesty; and are to be sold at the Kings printinghouse on Ormonde-Key, and the Colledge-Arms in Castle-street.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1688 [i.e. 1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council-Chamber in Dublin the 25th day of January 1688.".</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Arms 187.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Riots --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1660-1690 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186606:1"/>
+            <head>
+               <figure>
+                  <head>I<seg rend="sup">2</seg> R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <head>BY THE LORD DEPUTY AND COUNCIL.</head>
+            <opener>
+               <signed>TYRCONNELL.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS several persons disaffected to his Ma<g ref="char:EOLhyphen"/>jesties most serene and auspicious Government, have of late in a riotous and warlike manner assembled together in several parts of this his Kingdom, and have contrived and entred into se<g ref="char:EOLhyphen"/>veral Associations, which they have most indu<g ref="char:EOLhyphen"/>striously endeavoured to spread and divulge a<g ref="char:EOLhyphen"/>mongst his Majesties liege people in divers parts of the Kingdom, which We must conclude to have been made and procured by persons who de<g ref="char:EOLhyphen"/>sire to disturb the peaceable and establish'd Go<g ref="char:EOLhyphen"/>vernment thereof; and which contain, as We conceive, no less offence than that of High Treason, to which We are the more induced to give credit, in regard they have proceeded so far in their inso<g ref="char:EOLhyphen"/>lencies, as that by fresh informations which We the Lord Deputy have re<g ref="char:EOLhyphen"/>ceived, they have taken upon them to fortifie themselves, by possessing of places of strength, and dividing themselves into Troops and Companies, providing themselves of Arms and Ammunition in manifest breach of the Laws, and to the great Terror of his Majesties liege people. And because We are assured that several well-meaning persons amongst them have been seduced upon pretence of groundless fears and jealousies by fiery spirits that are Ringleaders of those Factions, who being broken in their Fortunes as well as their Reputations, may occasion the ruine of many harmless and well-meaning men, by involving them in their own treasonable designs, and making them partakers of the Crimes that they themselves are guilty of. And We being very sensible of the misfortune that these men are like to bring themselves further into, which can be no less than the forfeiture of their lives
+<pb facs="tcp:186606:2"/> and estates for Rebellion and Treason, which We are willing to prevent as much as in Vs lieth. And in order thereunto, and to settle the Peace of this Kingdom, and to prevent the effusion of Christian Blood, which We the Lord Deputy of this Kingdom have hitherto endeavoured to prevent with all the care and industry imaginable, notwithstanding the many Affronts of late offered to His Majesties Government.</p>
+            <p>And to quiet the mindes of the People, We the Lord Deputy and Council have thought fit and do hereby in his Majesties name strictly Charge and Command all the said persons so Assembled within this Kingdom forthwith to disperse and withdraw themselves from those Rebellious meetings by re<g ref="char:EOLhyphen"/>pairing to their respective Habitations, and to betake themselves to their se<g ref="char:EOLhyphen"/>veral Occupations and Callings as formerly, upon the doing whereof We do in his Majesties behalf hereby assure them and every of them of his Ma<g ref="char:EOLhyphen"/>jesties Protection and Pardon for their Persons and Estates for any the Of<g ref="char:EOLhyphen"/>fences aforesaid, and while they continue within the bounds of their Allegi<g ref="char:EOLhyphen"/>ance and duty to his Majesty; but in case they shall still persevere in their said crimes and fail to give due obedience to these our Commands, We do hereby Declare that we will give direction to his Majesties Atturney General to proceed against them and every of them according to Law as in cases of High Treason hath been always used, And whereas from these irregular and unwarranted proceedings of the Associators aforesaid, manifold and great inconveniences already have and more are da ly like to ensue by several Thieves and Robbers who in confidence of impunity do frequently despoyle and Robb his Majesties Subjects by stealing their Cattle in greater num<g ref="char:EOLhyphen"/>bers then for many years last past hath been known. We do hereby publish and declare that we will use our utmost endeavors by all Legal wayes and meanes to bring the said Theives and Robbers to condigne punishment, And We do hereby require all Iustices of the Peace, Magistrates, Sheriffs, High and Petty Constables and all other his Majesties Loving Subjects to use their utmost endeavors to discover and bring to Iustice the said Malefactors hereby charging and commanding all his Majesties military Officers and Soldiers of this Kingdom to be Aiding and Assisting to them in so doing: And we do further recommend to all his Majesties Subjects of this Realm to lay aside all fears and apprehensions of any violence to be used to them; We firmly assureing all his Majesties Subjects of what perswasion soever that to the utmost of our power they and every of them demeaning themselves peaceably and quietly shall be Protected by his Majesties Government here both in their Persons and Estates against all violences and attempts whatso<g ref="char:EOLhyphen"/>ever.</p>
+            <closer>
+               <dateline>Given at the Council-Chamber in <hi>Dublin</hi>
+                  <date>the 25th day of <hi>January</hi> 1688.</date>
+               </dateline>
+               <signed>A. Fytton C. Galmoy, T. Nugent, John Keating, Jo. Davys. De. Daly, Rich: Hamilton, Tho: Newcomen, Garett Moore,</signed>
+               <lb/> God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helsham</hi> Assigns of <hi>Benjamin Tooke</hi> Printer to the Kings Most Excellent Majesty; and are to be Sold at the Kin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Printinghouse on <hi>Ormonde-Key,</hi> and the <hi>Colledge-Arms</hi> in <hi>Castle-street.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
